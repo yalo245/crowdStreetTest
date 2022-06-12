@@ -1,21 +1,25 @@
 # crowdStreetTest
-Cypress tests
+Interview Project for test.crowdstreet.com
 
-Set up:
-Run command:
+
+Installation
+1. Clone the repo
+```
+git clone git@github.com:yalo245/crowdStreetTest.git
+```
+2. Install NPM packages
 ```
 npm install
 ```
-
-To open Cypress first time run:
+3. Open Cypress first time run:
 ```
 npx cypress open 
 ```
-Then you can use just:
+4. Then you can use just:
 ```
 cypress open 
 ```
-After updating Cypress if it's not opening via cypress open , use
+5. After updating Cypress if it's not opening via cypress open , use
 ```
 npx cypress open.
 ```
